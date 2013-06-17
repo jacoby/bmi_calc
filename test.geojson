@@ -1,14 +1,15 @@
 {
     "type": "FeatureCollection",
-    "features": [
+    "features":
+    [
         {
-            "type": "Feature",
-            "id": "Work",
-            "properties": { "ZIP": "47909" },
-            "geometry": {
-                "type": "point",
-                "coordinates": [ -87.677621510652742, 41.91775780106294 ]
-                }
+            "type"          : "Feature",
+            "id"            : "Work",
+            "properties"    : { "ZIP": "47909" },
+            "geometry"      :   {
+                                "type": "Point",
+                                "coordinates": [ -86.9154, 40.4226 ]
+                                }
         }
     ]
 }
