@@ -5,8 +5,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            40.4226,
-            -86.9154
+            40.4226N,
+            86.9154W
         ]
     },
     "crs": {
